@@ -1,0 +1,25 @@
+# Agent Builder Settings & Profile
+
+**Settings Include**
+
+* General
+* MCP Connections
+* AutoX API Key
+* Global Variables
+* Shortcuts
+* Message Logs (filter by Session ID / Flow ID)
+
+&#x20;
+
+**Important Notes**
+
+* API keys can be configured in:
+* Settings
+* Canvas (reflected in both)
+
+&#x20;
+
+📸 Screenshot Required
+
+* Settings screen
+* Global variables panel
