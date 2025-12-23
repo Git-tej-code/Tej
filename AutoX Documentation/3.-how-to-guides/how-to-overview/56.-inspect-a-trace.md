@@ -1,0 +1,36 @@
+# Inspect a Trace
+
+**Steps**
+
+1. Navigate to Observability → Tracing
+2. Use filters:
+3. Time range
+4. Status
+5. Trace ID
+6. User ID
+7. Click on a Trace
+
+&#x20;
+
+**What You See Inside a Trace**
+
+* Input & output payloads
+* Span timeline
+* Model calls
+* Cost & token usage
+* Errors (if any)
+
+&#x20;
+
+**Important Notes**
+
+* Traces are immutable
+* Every execution creates exactly one trace
+* Trace IDs are globally unique
+
+&#x20;
+
+📸 Screenshot Required
+
+* Trace list
+* Trace detail view (timeline + payload)

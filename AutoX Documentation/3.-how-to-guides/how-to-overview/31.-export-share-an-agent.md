@@ -1,0 +1,22 @@
+# Export / Share an Agent
+
+**Available Options**
+
+* API Access
+* Python
+* JavaScript
+* cURL
+* Export
+* Complete JSON workflow
+* Embed
+* HTML embed
+* Shareable Playground
+* Live testing by multiple users
+* MCP Server
+* Redirect to MCP configuration
+
+&#x20;
+
+📸 Screenshot Required
+
+* Share menu with options

@@ -1,0 +1,22 @@
+# Agent Versioning & Locking
+
+**Versioning Rules**
+
+* Every change creates a new version
+* Versions are immutable once locked
+* Locked versions cannot be edited
+
+&#x20;
+
+**Steps to Create New Version**
+
+1. Open agent
+2. Click Duplicate or Add Version
+3. New version opens in editable state
+
+&#x20;
+
+📸 Screenshot Required
+
+* Version dropdown
+* Lock / Unlock control

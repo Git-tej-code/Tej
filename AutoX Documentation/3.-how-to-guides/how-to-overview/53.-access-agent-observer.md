@@ -1,0 +1,38 @@
+# Access Agent Observer
+
+**Who can do this**
+
+* Platform Admin
+* Power User
+* Agent Developer (if granted access)
+* Observer / Viewer roles (read-only)
+
+&#x20;
+
+**Steps**
+
+1. Log in to the AutoX Platform
+2. Click Agent Observer from the navigation\
+   (or access via direct Observer URL)
+3. If prompted, log in to the Agent Observer workspace
+
+&#x20;
+
+**What Happens Next**
+
+* You land on the Landing Page / Project Selector
+* Only organizations and projects you are authorized for are visible
+
+&#x20;
+
+**Important Notes**
+
+* Agent Observer access is independent of Agent Builder
+* Lack of access means role or scope restriction, not a system issue
+
+&#x20;
+
+📸 Screenshot Required
+
+* Main Platform → Agent Observer navigation
+* Agent Observer login / landing page

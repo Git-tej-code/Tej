@@ -1,0 +1,44 @@
+# Navigate Projects & Context
+
+**Understanding the Structure**
+
+Agent Observer follows this hierarchy:
+
+&#x20;
+
+Organization
+
+&#x20;└─ Project
+
+&#x20;   └─ Environment (Dev / QA / Prod)
+
+&#x20;      └─ Traces & Sessions
+
+&#x20;
+
+**Steps to Select Context**
+
+1. Select Organization
+2. Select Project
+3. Choose Environment
+4. Access:
+5. Home
+6. Dashboard
+7. Observability
+8. Evaluation
+
+&#x20;
+
+**Important Notes**
+
+* Data is always environment-scoped
+* Production data is isolated from testing
+
+&#x20;
+
+📸 Screenshot Required
+
+* Organization & Project selector
+* Environment dropdown
+
+&#x20;
