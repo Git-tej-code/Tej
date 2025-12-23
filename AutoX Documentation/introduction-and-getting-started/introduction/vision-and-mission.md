@@ -1,6 +1,6 @@
 # Vision & Mission
 
-Vision
+**Vision**
 
 To make intelligent automation transparent, governable, and safe for enterprises.
 

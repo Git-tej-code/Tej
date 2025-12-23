@@ -1,8 +1,8 @@
 # AutoX Platform Overview
 
-AutoX
+**AutoX**
 
-&#x20;├─ Main Platform
+&#x20;├─ **Main Platform**
 
 &#x20;│   ├─ Orchestration
 
@@ -10,7 +10,7 @@ AutoX
 
 &#x20;│   └─ Deployment
 
-&#x20;├─ Agent Builder
+&#x20;├─ **Agent Builder**
 
 &#x20;│   ├─ Agent Canvas
 
@@ -18,7 +18,7 @@ AutoX
 
 &#x20;│   └─ MCP
 
-&#x20;└─ Agent Observer
+&#x20;└─ **Agent Observer**
 
 &#x20;    ├─ Traces
 
@@ -30,9 +30,9 @@ AutoX
 
 &#x20;
 
-AutoX is composed of three tightly integrated platforms.
+**AutoX is composed of three tightly integrated platforms.**
 
-1\. Main Platform
+**1. Main Platform**
 
 Used for:
 
@@ -42,7 +42,7 @@ Used for:
 * Package management and deployment
 * User and role management
 
-2\. Agent Builder
+**2. Agent Builder**
 
 Used for:
 
@@ -51,7 +51,7 @@ Used for:
 * Testing agents safely in Playground
 * Exporting and sharing agents via APIs or MCP
 
-3\. Agent Observer
+**3. Agent Observer**
 
 Used for:
 
