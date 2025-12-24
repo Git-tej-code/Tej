@@ -89,12 +89,13 @@
   * [55. Understanding Home vs Dashboard](3.-how-to-guides/how-to-overview/55.-understanding-home-vs-dashboard.md)
   * [56. Inspect a Trace](3.-how-to-guides/how-to-overview/56.-inspect-a-trace.md)
   * [57. Analyse Latency & Performance](3.-how-to-guides/how-to-overview/57.-analyse-latency-and-performance.md)
-  * [58. Working with Scores & Trends](3.-how-to-guides/how-to-overview/58.-working-with-scores-and-trends.md)
-  * [59. Export Observability Data](3.-how-to-guides/how-to-overview/59.-export-observability-data.md)
-  * [60. Understanding Traces, Spans & Sessions](3.-how-to-guides/how-to-overview/60.-understanding-traces-spans-and-sessions.md)
-  * [61. Analyse Cost & Model Usage](3.-how-to-guides/how-to-overview/61.-analyse-cost-and-model-usage.md)
-  * [62. Experiment Runs](3.-how-to-guides/how-to-overview/62.-experiment-runs.md)
-  * [62. Common Observer Mistake](3.-how-to-guides/how-to-overview/62.-common-observer-mistake.md)
+  * [58. Evaluate Agent Quality](3.-how-to-guides/how-to-overview/58.-evaluate-agent-quality.md)
+  * [59. Working with Scores & Trends](3.-how-to-guides/how-to-overview/59.-working-with-scores-and-trends.md)
+  * [60.  Export Observability Data](3.-how-to-guides/how-to-overview/60.-export-observability-data.md)
+  * [61. Understanding Traces, Spans & Sessions](3.-how-to-guides/how-to-overview/61.-understanding-traces-spans-and-sessions.md)
+  * [62. Analyse Cost & Model Usage](3.-how-to-guides/how-to-overview/62.-analyse-cost-and-model-usage.md)
+  * [63. Experiment Runs](3.-how-to-guides/how-to-overview/63.-experiment-runs.md)
+  * [64. Common Observer Mistake](3.-how-to-guides/how-to-overview/64.-common-observer-mistake.md)
 
 ## 4. Role Based Access & Governance
 
